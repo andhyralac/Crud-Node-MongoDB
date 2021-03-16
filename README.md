@@ -1,0 +1,8 @@
+## CRUD NODE CON MONGO
+
+### 1-> CREAR 
+### 2-> EDITAR
+### 3-> ELIMINAR
+### 4-> LEER
+### 5-> CAMBIAR ESTADO
+
